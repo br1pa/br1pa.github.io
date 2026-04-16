@@ -5,8 +5,6 @@ theme: minima
 url: "https://br1pa.github.io"
 baseurl: ""
 
-email: "b.petrungaro@qmul.ac.uk"
-
 header_pages:
   - cv.md
   - research.md
