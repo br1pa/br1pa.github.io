@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
 # Bruno Petrungaro
 
 Data Scientist, Econometrician, and PhD student in Causal AI.
