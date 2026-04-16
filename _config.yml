@@ -1,5 +1,5 @@
 title: Bruno Petrungaro
-description: Data Scientist and Econometrician working on Causal AI, Machine Learning, Econometrics, and Operations Research
+description: "Data Scientist and Econometrician working on Causal AI, Machine Learning, Econometrics, and Operations Research"
 theme: minima
 
 url: "https://br1pa.github.io"
@@ -18,7 +18,10 @@ minima:
   social_links:
     - title: GitHub
       icon: github
-      url: https://github.com/br1pa
+      url: "https://github.com/br1pa"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/bruno-petrungaro-8b2851137/"
 
 show_excerpts: true
 
