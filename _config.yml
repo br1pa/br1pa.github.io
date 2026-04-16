@@ -5,9 +5,8 @@ theme: minima
 url: "https://br1pa.github.io"
 baseurl: ""
 
-author:
-  name: Bruno Petrungaro
-  email: b.petrungaro@qmul.ac.uk
+author: "Bruno Petrungaro"
+email: "b.petrungaro@qmul.ac.uk"
 
 header_pages:
   - cv.md
