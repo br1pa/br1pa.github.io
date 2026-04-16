@@ -1,0 +1,30 @@
+title: Bruno Petrungaro
+description: Data Scientist and Econometrician working on Causal AI, Machine Learning, Econometrics, and Operations Research
+theme: minima
+
+url: ""https://br1pa.github.io""
+baseurl: ""
+
+author:
+  name: Bruno Petrungaro
+  mail: b.petrungaro@qmul.ac.uk
+
+header_pages:
+  - cv.md
+  - research.md
+  - code.md
+
+minima:
+  skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/br1pa
+
+show_excerpts: true
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
