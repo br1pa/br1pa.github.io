@@ -16,7 +16,7 @@ Welcome to my website. Here you can find my CV, research, publications, and code
 
 ## About me
 
-I am a Technical Specialist Data Scientist at the Financial Conduct Authority in London and a PhD student in Computer Science at Queen Mary University of London. My work sits at the intersection of Bayesian AI, causal inference, Econometrics and decision-support systems.
+I am a Technical Specialist Data Scientist at the Financial Conduct Authority in London and a PhD student in Computer Science at Queen Mary University of London. My work sits at the intersection of Bayesian AI, causal inference, econometrics, and decision-support systems.
 
 I have led and delivered data science projects across finance and healthcare, including simulation models of the UK gilt market, Bayesian decision-support tools for prudential supervision, causal machine learning studies of financial vulnerability, and predictive-risk models in the NHS.
 
@@ -30,10 +30,10 @@ I have led and delivered data science projects across finance and healthcare, in
 
 ## Current position
 
-Technical Specialist Data Scientist  
+**Technical Specialist Data Scientist**  
 Financial Conduct Authority, London, UK
 
-PhD student in Computer Science  
+**PhD student in Computer Science**  
 Queen Mary University of London
 
 ## Selected profiles
