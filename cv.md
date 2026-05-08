@@ -114,7 +114,7 @@ University of Montevideo, Montevideo, Uruguay
 
 ## Publications
 
-[Time Series Causal Discovery with Variable Lags](https://arxiv.org/abs/2605.04081)  
+[**Time Series Causal Discovery with Variable Lags](https://arxiv.org/abs/2605.04081)  
 Bruno Petrungaro, Anthony C. Constantinou  
 arXiv preprint arXiv:2605.04081, 2026
 
