@@ -114,31 +114,35 @@ University of Montevideo, Montevideo, Uruguay
 
 ## Publications
 
-**Econometric vs. Causal Structure-Learning for Time-Series Policy Decisions: Evidence from the UK COVID-19 Policies**  
+[Time Series Causal Discovery with Variable Lags](https://arxiv.org/abs/2605.04081)  
+Bruno Petrungaro, Anthony C. Constantinou  
+arXiv preprint arXiv:2605.04081, 2026
+
+[**Econometric vs. Causal Structure-Learning for Time-Series Policy Decisions: Evidence from the UK COVID-19 Policies**](https://arxiv.org/abs/2603.00041)  
 Bruno Petrungaro, Anthony C. Constantinou  
 *arXiv preprint arXiv:2603.00041*, 2026
 
-**Investigating potential causes of Sepsis with Bayesian network structure learning**  
+[**Investigating potential causes of Sepsis with Bayesian network structure learning**](https://doi.org/10.1007/s10489-025-06405-5)  
 Bruno Petrungaro, Neville K. Kitson, Anthony C. Constantinou  
 *Applied Intelligence*, Springer Nature, 2025
 
-**Assessment of machine learning algorithms in national data to classify the risk of self-harm among young adults in hospital: a retrospective study**  
+[**Assessment of machine learning algorithms in national data to classify the risk of self-harm among young adults in hospital: a retrospective study**](https://doi.org/10.1016/j.ijmedinf.2023.105164)  
 Anmol Arora, Louis Bojko, Santosh Kumar, Joseph Lillington, Sukhmeet Panesar, Bruno Petrungaro  
 *International Journal of Medical Informatics*, Elsevier, 2023
 
-**Open problems in causal structure learning: A case study of COVID-19 in the UK**  
+[**Open problems in causal structure learning: A case study of COVID-19 in the UK**](https://doi.org/10.1016/j.eswa.2023.121069)  
 Anthony Constantinou, Neville K. Kitson, Yang Liu, Kiattikun Chobtham, Arian Hashemzadeh Amirkhizi, Praharsh A. Nanavati, Rendani Mbuvha, Bruno Petrungaro  
 *Expert Systems with Applications*, Elsevier, 2023
 
-**Budget impact analysis of a machine learning algorithm to predict high risk of atrial fibrillation among primary care patients**  
+[**Budget impact analysis of a machine learning algorithm to predict high risk of atrial fibrillation among primary care patients**](https://doi.org/10.1093/europace/euac016)  
 Tomasz Szymanski, Rachel Ashton, Sara Sekelj, Bruno Petrungaro, Kevin G. Pollock, Belinda Sandler, Steven Lister, Nathan R. Hill, Usman Farooqui  
 *EP Europace*, 2022
 
-**Clinical and budget impacts of changes in oral anticoagulation prescribing for atrial fibrillation**  
+[**Clinical and budget impacts of changes in oral anticoagulation prescribing for atrial fibrillation**](https://doi.org/10.1136/heartjnl-2020-317006)  
 Andi Orlowski, Chris P. Gale, Rachel Ashton, Bruno Petrungaro, Ruth Slater, Ramesh Nadarajah, J. Campbell Cowan, Jackie Buck, Wayne Smith, Jianhua Wu  
 *Heart*, 2021
 
-**Hospital admissions for stroke and bleeding in Hounslow following a quality improvement initiative**  
+[**Hospital admissions for stroke and bleeding in Hounslow following a quality improvement initiative**](https://doi.org/10.1136/openhrt-2020-001558)  
 Kam Ying Wong, Bethan Davies, Yewande Adeleke, Thomas Woodcock, Dionne Matthew, Sara Sekelj, Andi Orlowski, Bradley Porter, Sophia Hashmy, Ammu Mathew, Bruno Petrungaro, Jordan Wallace, Derek Bell, Martin R. Cowie, Sadia Khan  
 *Open Heart*, 2021
 
